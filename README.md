@@ -30,7 +30,7 @@ A pergunta que eu me faço: *estou sendo um bom ancestral?*
 
 #### 🛠️ Com o que já trabalhei
 
-`SAP HCM` `ABAP (relatórios, telas e queries)` `SuccessFactors EC (certificado)` `SuccessFactors Time Off (certificado)` `ECP` `eSocial` `WorkForce Software` `JavaScript` `PL/SQL` `Progress 4GL` `JSON / XML` `Postman` `SoapUI`
+`SAP HCM` `ABAP (relatórios, telas e queries)` `SuccessFactors EC` `SuccessFactors Time Management` `ECP` `eSocial` `WorkForce Software` `JavaScript` `PL/SQL` `Progress 4GL` `JSON / XML` `Postman` `SoapUI`
 
 ---
 
